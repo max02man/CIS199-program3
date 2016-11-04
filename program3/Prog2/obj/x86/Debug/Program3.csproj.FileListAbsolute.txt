@@ -1,0 +1,10 @@
+C:\Users\MAX MAN\Desktop\Prog2\Prog2V2\Prog2\bin\Debug\Prog2.exe
+C:\Users\MAX MAN\Desktop\Prog2\Prog2V2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\MAX MAN\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Program3.csprojResolveAssemblyReference.cache
+C:\Users\MAX MAN\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Prog2.Properties.Resources.resources
+C:\Users\MAX MAN\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Prog2.RegForm.resources
+C:\Users\MAX MAN\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Program3.csproj.GenerateResource.Cache
+C:\Users\MAX MAN\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\MAX MAN\Desktop\Prog2\Prog2V2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\MAX MAN\Desktop\Prog2\program3\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\MAX MAN\Desktop\Prog2\program3\Prog2\obj\x86\Debug\Prog2.pdb
